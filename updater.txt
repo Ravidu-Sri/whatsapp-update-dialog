@@ -3,7 +3,7 @@
     {
  "version":"9.62",
  "title":"Update Disponible",
- "description":"PM WA X V-1
+ "description":"PM WA X V-1 j
 
 Base: 2.24.24.77h
 
