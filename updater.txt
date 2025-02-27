@@ -5,7 +5,7 @@
  "title":"Update Disponible",
  "description":"PM WA X V-1
 
-Base: 2.24.24.77
+Base: 2.24.24.77h
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
