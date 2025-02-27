@@ -1,61 +1,10 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .container {
-            margin: 0 12px;    
-            font-size: 14px; 
-        }
-        h2 {
-            margin-bottom: -10px;
-            font-size: 16px; 
-            color: #1dab61;
-        }
-        .contributors-list {
-            list-style-type: none;
-            padding: 0;
-           
-        }
-        .contributor-item {
-            margin-bottom: 10px;
-            color: #1dab61;
-            font-weight: bold;
-        }
- 
-        .username {
-            display: inline-block;
-            padding: 6px 12px;
-            background-color: #1dab61; 
-            font-weight: normal;
-            color: #fff;
-            border-radius: 10px;
-        }
-        ul {
-            
-            line-height: 1.5;
-            font-size: 14px;
-         
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-      
-        <ul class="contributors-list">
-            <li class="contributor-item">WA LiteX<span class="username">@WALiteX</span></li>      
-             <ul class="contributors-list">
-            <li class="contributor-item">PM WA X V-1<span class="username">@PODDA_MODz</span></li>      
-            <li style="color: #008069"> Special Thanks to all testers </li>
-        </point> • NX ( NAVIYA MODz )</br>
-            
-    </point> • PM ( PODDA MODz ) MAIN DEVELOPER</br>
-
-    </div>
-</body>
-</html>
+{
+  "Podda_update": [
+    {
+ "version":"2.24.24.77",
+ "title":"Update Disponible",
+ "description":" ⇆💙 𝙿𝙼 𝚆𝙰 𝚇 𝚅-1 𝙽𝙴𝚆 𝚄𝙿𝙳𝙰𝚃𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 💙⇆ ",
+"download":"https://youtube.com/@podda_modz?si=lODkWz9mL7xpFQ0h"
+}
+  ]
+}
